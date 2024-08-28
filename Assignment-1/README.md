@@ -1,0 +1,3 @@
+# Assignment-1
+
+I chose [NORAD Tracks Santa](https://www.noradsanta.org/en/) because when I was younger on Christmas Eve my parents would sit me and my brother in front of the family desktop to look at the Track Santa website. I don't remember if this is the same website as it seems different from how I remember. However, it appears that NORAD Tracks Santa has been a project for a long time so I assume it's the same website I viewed as a child. One of the biggest differences from how I remember it is that the display that they use to show where Santa is on the globe is now a 3D model. When I was younger I think it was just a 2D image.
