@@ -7,6 +7,8 @@ function init() {
     if (!gl) { alert("Your Web browser doesn't support WebGL 2\nPlease contact Dave"); }
 
     // Add initialization code here
+    //gl.clearColor(0.2, 0.2, 0.2, 1.0); IDK what this does but might be important
+    
 }
 
 function render() {
