@@ -6,6 +6,8 @@ also played from a bird’s eye view, or “god’s eye,” where you can see th
 any given time. At the moment there are no plans for ray tracing. However, there will be 
 texture work on the course and player character
 
+[Kirby Air Ride Top Ride Example](https://youtu.be/ZkUwR8gZ0nc?si=9K6euKbLZB_azvui&t=1701)
+
 ## Project Schedule
 
 ### First week, 
