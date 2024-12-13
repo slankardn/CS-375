@@ -1,0 +1,27 @@
+{
+  "name": "graphfix",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "nanoid": "^3.3.8",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.4.49",
+    "rollup": "^4.28.1",
+    "source-map-js": "^1.2.1",
+    "three": "^0.171.0",
+    "vite": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
